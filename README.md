@@ -1,2 +1,2 @@
 # c-sharp-taling
-2018 탈잉 튜터링용 유니티 repo
+탈잉 C#, unity 튜터링용 2018
